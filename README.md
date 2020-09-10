@@ -1,5 +1,5 @@
 # GNURadioQPSK
 
-FLowgraph
+Flowgraph
 
 ![GRC Flowgraph](GNURadioQPSK.grc.png)
