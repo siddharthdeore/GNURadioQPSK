@@ -2,4 +2,4 @@
 
 FLowgraph
 
-![GRC Flowgraph](GNURadioQPSK.grc.png)]
+![GRC Flowgraph](GNURadioQPSK.grc.png)
